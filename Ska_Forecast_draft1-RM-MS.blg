@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Ska_Forecast_draft1-RM-MS.aux
+The style file: mn2e.bst
+Database file #1: Ska_Forecast_draft1.bib.bib
+You've used 16 entries,
+            2601 wiz_defined-function locations,
+            647 strings with 6353 characters,
+and the built_in function-call counts, 5769 in all, are:
+= -- 580
+> -- 349
+< -- 11
++ -- 114
+- -- 114
+* -- 515
+:= -- 1091
+add.period$ -- 0
+call.type$ -- 16
+change.case$ -- 98
+chr.to.int$ -- 16
+cite$ -- 16
+duplicate$ -- 171
+empty$ -- 252
+format.name$ -- 142
+if$ -- 1046
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 16
+newline$ -- 51
+num.names$ -- 64
+pop$ -- 65
+preamble$ -- 1
+purify$ -- 114
+quote$ -- 0
+skip$ -- 214
+stack$ -- 0
+substring$ -- 298
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 38
+top$ -- 0
+type$ -- 144
+warning$ -- 0
+while$ -- 59
+width$ -- 0
+write$ -- 157
