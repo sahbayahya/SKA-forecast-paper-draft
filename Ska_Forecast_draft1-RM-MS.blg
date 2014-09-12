@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Ska_Forecast_draft1-RM-MS.aux
 The style file: mn2e.bst
 Database file #1: Ska_Forecast_draft1.bib.bib
-You've used 16 entries,
+You've used 15 entries,
             2601 wiz_defined-function locations,
-            647 strings with 6353 characters,
-and the built_in function-call counts, 5769 in all, are:
-= -- 580
-> -- 349
-< -- 11
-+ -- 114
-- -- 114
-* -- 515
-:= -- 1091
+            642 strings with 6242 characters,
+and the built_in function-call counts, 5456 in all, are:
+= -- 550
+> -- 330
+< -- 10
++ -- 108
+- -- 108
+* -- 491
+:= -- 1030
 add.period$ -- 0
-call.type$ -- 16
-change.case$ -- 98
-chr.to.int$ -- 16
-cite$ -- 16
-duplicate$ -- 171
-empty$ -- 252
-format.name$ -- 142
-if$ -- 1046
+call.type$ -- 15
+change.case$ -- 93
+chr.to.int$ -- 15
+cite$ -- 15
+duplicate$ -- 161
+empty$ -- 237
+format.name$ -- 134
+if$ -- 989
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 16
-newline$ -- 51
-num.names$ -- 64
-pop$ -- 65
+missing$ -- 15
+newline$ -- 48
+num.names$ -- 60
+pop$ -- 61
 preamble$ -- 1
-purify$ -- 114
+purify$ -- 108
 quote$ -- 0
-skip$ -- 214
+skip$ -- 200
 stack$ -- 0
-substring$ -- 298
-swap$ -- 16
+substring$ -- 286
+swap$ -- 15
 text.length$ -- 0
-text.prefix$ -- 38
+text.prefix$ -- 36
 top$ -- 0
-type$ -- 144
+type$ -- 135
 warning$ -- 0
-while$ -- 59
+while$ -- 56
 width$ -- 0
-write$ -- 157
+write$ -- 148

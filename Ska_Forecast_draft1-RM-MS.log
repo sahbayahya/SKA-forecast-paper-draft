@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.6.6)  2 JUL 2014 12:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.6.6)  12 SEP 2014 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -384,6 +384,273 @@ Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 )
+(/usr/local/texlive/2012/texmf-dist/tex/latex/media9/media9.sty
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3names.sty
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
+Package: l3bootstrap 2013/01/08 v4420 L3 Experimental bootstrap code
+)
+Package: l3names 2012/12/07 v4346 L3 Namespace for primitives
+)
+Package: expl3 2013/03/14 v4469 L3 Experimental code bundle wrapper
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3basics.sty
+Package: l3basics 2013/01/10 v4428 L3 Basic definitions
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3expan.sty
+Package: l3expan 2013/02/03 v4458 L3 Argument expansion
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3tl.sty
+Package: l3tl 2013/01/08 v4415 L3 Token lists
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3seq.sty
+Package: l3seq 2013/01/12 v4434 L3 Sequences and stacks
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3int.sty
+Package: l3int 2013/01/13 v4444 L3 Integers
+\c_max_int=\count126
+\l_tmpa_int=\count127
+\l_tmpb_int=\count128
+\g_tmpa_int=\count129
+\g_tmpb_int=\count130
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3quark.sty
+Package: l3quark 2012/11/04 v4268 L3 Quarks
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3prg.sty
+Package: l3prg 2013/02/13 v4459 L3 Control structures
+\g__prg_map_int=\count131
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3clist.sty
+Package: l3clist 2013/01/08 v4414 L3 Comma separated lists
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3token.sty
+Package: l3token 2013/01/10 v4428 L3 Experimental token manipulation
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3prop.sty
+Package: l3prop 2013/01/09 v4423 L3 Property lists
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3msg.sty
+Package: l3msg 2013/01/08 v4412 L3 Messages
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3file.sty
+Package: l3file 2013/01/14 v4446 L3 File and I/O operations
+\l_iow_line_count_int=\count132
+\l__iow_target_count_int=\count133
+\l__iow_current_line_int=\count134
+\l__iow_current_word_int=\count135
+\l__iow_current_indentation_int=\count136
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3skip.sty
+Package: l3skip 2013/01/13 v4444 L3 Dimensions and skips
+\c_zero_dim=\dimen135
+\c_max_dim=\dimen136
+\l_tmpa_dim=\dimen137
+\l_tmpb_dim=\dimen138
+\g_tmpa_dim=\dimen139
+\g_tmpb_dim=\dimen140
+\c_zero_skip=\skip66
+\c_max_skip=\skip67
+\l_tmpa_skip=\skip68
+\l_tmpb_skip=\skip69
+\g_tmpa_skip=\skip70
+\g_tmpb_skip=\skip71
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3keys.sty
+Package: l3keys 2013/02/24 v4461 L3 Experimental key-value interfaces
+\g__keyval_level_int=\count137
+\l_keys_choice_int=\count138
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3fp.sty
+Package: l3fp 2013/01/19 v4449 L3 Floating points
+\c__fp_leading_shift_int=\count139
+\c__fp_middle_shift_int=\count140
+\c__fp_trailing_shift_int=\count141
+\c__fp_big_leading_shift_int=\count142
+\c__fp_big_middle_shift_int=\count143
+\c__fp_big_trailing_shift_int=\count144
+\c__fp_Bigg_leading_shift_int=\count145
+\c__fp_Bigg_middle_shift_int=\count146
+\c__fp_Bigg_trailing_shift_int=\count147
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3box.sty
+Package: l3box 2013/01/08 v4411 L3 Experimental boxes
+\c_empty_box=\box37
+\l_tmpa_box=\box38
+\l_tmpb_box=\box39
+\g_tmpa_box=\box40
+\g_tmpb_box=\box41
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3coffins.sty
+Package: l3coffins 2012/09/09 v4212 L3 Coffin code layer
+\l__coffin_internal_box=\box42
+\l__coffin_internal_dim=\dimen141
+\l__coffin_offset_x_dim=\dimen142
+\l__coffin_offset_y_dim=\dimen143
+\l__coffin_x_dim=\dimen144
+\l__coffin_y_dim=\dimen145
+\l__coffin_x_prime_dim=\dimen146
+\l__coffin_y_prime_dim=\dimen147
+\c_empty_coffin=\box43
+\l__coffin_aligned_coffin=\box44
+\l__coffin_aligned_internal_coffin=\box45
+\l_tmpa_coffin=\box46
+\l_tmpb_coffin=\box47
+\l__coffin_display_coffin=\box48
+\l__coffin_display_coord_coffin=\box49
+\l__coffin_display_pole_coffin=\box50
+\l__coffin_display_offset_dim=\dimen148
+\l__coffin_display_x_dim=\dimen149
+\l__coffin_display_y_dim=\dimen150
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3color.sty
+Package: l3color 2012/08/29 v4156 L3 Experimental color support
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3luatex.sty
+Package: l3luatex 2012/08/03 v4049 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count148
+\g__cctab_stack_int=\count149
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3kernel/l3candidates.sty
+Package: l3candidates 2013/03/14 v4468 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen151
+\l__box_bottom_dim=\dimen152
+\l__box_left_dim=\dimen153
+\l__box_right_dim=\dimen154
+\l__box_top_new_dim=\dimen155
+\l__box_bottom_new_dim=\dimen156
+\l__box_left_new_dim=\dimen157
+\l__box_right_new_dim=\dimen158
+\l__box_internal_box=\box51
+\l__coffin_bounding_shift_dim=\dimen159
+\l__coffin_left_corner_dim=\dimen160
+\l__coffin_right_corner_dim=\dimen161
+\l__coffin_bottom_corner_dim=\dimen162
+\l__coffin_top_corner_dim=\dimen163
+\l__coffin_scaled_total_height_dim=\dimen164
+\l__coffin_scaled_width_dim=\dimen165
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3experimental/l3str/l3regex.sty
+Package: l3regex 2013/01/22 v4455 L3 Experimental regular expressions
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3experimental/l3str/l3tl-build.s
+ty
+Package: l3tl-build 2011/12/08 v3039 L3 Experimental token list construction
+\l__tl_build_start_index_int=\count150
+\l__tl_build_index_int=\count151
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3experimental/l3str/l3tl-analysi
+s.sty
+Package: l3tl-analysis 2011/12/08 v3039 L3 Experimental token lists analysis
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3experimental/l3str/l3str.sty
+Package: l3str 2013/01/20 v4452 L3 Experimental strings
+)
+\l__tl_analysis_normal_int=\count152
+\l__tl_analysis_index_int=\count153
+\l__tl_analysis_nesting_int=\count154
+\l__tl_analysis_type_int=\count155
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3experimental/l3str/l3flag.sty
+Package: l3flag 2011/12/08 v3039 L3 Experimental flags
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3experimental/l3str/l3str-conver
+t.sty
+Package: l3str-convert 2013/01/08 v4339 L3 Experimental string encoding convers
+ions
+\l__str_internal_int=\count156
+\c__str_replacement_char_int=\count157
+)
+\l__regex_internal_a_int=\count158
+\l__regex_internal_b_int=\count159
+\l__regex_internal_c_int=\count160
+\l__regex_balance_int=\count161
+\l__regex_group_level_int=\count162
+\l__regex_mode_int=\count163
+\l__regex_catcodes_int=\count164
+\l__regex_default_catcodes_int=\count165
+\c__regex_catcode_D_int=\count166
+\c__regex_catcode_S_int=\count167
+\c__regex_catcode_L_int=\count168
+\c__regex_catcode_O_int=\count169
+\c__regex_catcode_A_int=\count170
+\c__regex_all_catcodes_int=\count171
+\l__regex_show_lines_int=\count172
+\l__regex_min_state_int=\count173
+\l__regex_max_state_int=\count174
+\l__regex_left_state_int=\count175
+\l__regex_right_state_int=\count176
+\l__regex_capturing_group_int=\count177
+\l__regex_min_pos_int=\count178
+\l__regex_max_pos_int=\count179
+\l__regex_current_pos_int=\count180
+\l__regex_start_pos_int=\count181
+\l__regex_success_pos_int=\count182
+\l__regex_current_char_int=\count183
+\l__regex_current_catcode_int=\count184
+\l__regex_last_char_int=\count185
+\l__regex_case_changed_char_int=\count186
+\l__regex_current_state_int=\count187
+\l__regex_step_int=\count188
+\l__regex_min_active_int=\count189
+\l__regex_max_active_int=\count190
+\l__regex_replacement_csnames_int=\count191
+\l__regex_match_count_int=\count192
+\l__regex_submatch_int=\count193
+\l__regex_zeroth_submatch_int=\count194
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2013/03/12 v4467 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2013/03/12 v4467 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count195
+\l__xparse_m_args_int=\count196
+\l__xparse_mandatory_args_int=\count197
+\l__xparse_processor_int=\count198
+\l__xparse_v_nesting_int=\count199
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+Package: media9 2013/03/27 v0.27 acrobat-9/X compatible media
+\l_mix_poster_box=\box52
+\g_mix_wd_dim=\dimen166
+\g_mix_ht_dim=\dimen167
+\g_mix_dp_dim=\dimen168
+\g_mix_rmcnt_int=\count200
+\l_mix_viewcnt_int=\count201
+Normal \count register pool exhausted, switching to extended pool.
+\g@mix@page@int=\count277
+\g_mix_resizeflag_int=\count278
+\l_mix_lineno_int=\count279
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \addmediapath with arg. spec. 'm' on line 1082.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \includemedia with arg. spec. 'O{}mm' on line
+. 1343.
+.................................................
+\g_mix_mbtncnt_int=\count280
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \mediabutton with arg. spec. 'O{}m' on line 2400.
+.................................................
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
 
@@ -405,16 +672,16 @@ LaTeX Font Info:    ... okay on input line 117.
 
 (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count126
-\scratchdimen=\dimen135
-\scratchbox=\box37
-\nofMPsegments=\count127
-\nofMParguments=\count128
+\scratchcounter=\count281
+\scratchdimen=\dimen169
+\scratchbox=\box53
+\nofMPsegments=\count282
+\nofMParguments=\count283
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count129
-\MPscratchDim=\dimen136
-\MPnumerator=\count130
-\makeMPintoPDFobject=\count131
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen170
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
 \everyMPtoPDFconversion=\toks30
 ) (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -423,10 +690,6 @@ Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -464,6 +727,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+\AtBeginShipoutBox=\box54
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 123.
 LaTeX Font Info:    Try loading font information for U+eur on input line 123.
@@ -493,22 +757,26 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 
 Underfull \vbox (badness 3849) has occurred while \output is active []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 173.
+
+Overfull \hbox (32.09215pt too wide) in paragraph at lines 167--193
+ [] 
+ []
+
+
+Underfull \vbox (badness 1112) has occurred while \output is active []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 264.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 173.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 264.
  [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Overfull \hbox (32.09215pt too wide) in paragraph at lines 198--224
- [] 
- []
-
 Package epstopdf Info: Source file: <plots/fittingMario_dNOverdz_using_Obreschk
 owFunc_diff_14bins_3.eps>
 (epstopdf)                    date: 2014-06-19 17:14:40
@@ -520,7 +788,7 @@ owFunc_diff_14bins_3-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=plots/fittingMario_dNOverd
 z_using_ObreschkowFunc_diff_14bins_3-eps-converted-to.pdf plots/fittingMario_dN
 Overdz_using_ObreschkowFunc_diff_14bins_3.eps>
-(epstopdf)             \includegraphics on input line 327.
+(epstopdf)             \includegraphics on input line 283.
 Package epstopdf Info: Output file is already uptodate.
 
 <plots/fittingMario_dNOverdz_using_ObreschkowFunc_diff_14bins_3-eps-converted-t
@@ -531,8 +799,8 @@ ted-to.pdf Graphic file (type pdf)
 <use plots/fittingMario_dNOverdz_using_ObreschkowFunc_diff_14bins_3-eps-convert
 ed-to.pdf>
 Package pdftex.def Info: plots/fittingMario_dNOverdz_using_ObreschkowFunc_diff_
-14bins_3-eps-converted-to.pdf used on input line 327.
-(pdftex.def)             Requested size: 403.20154pt x 302.40051pt.
+14bins_3-eps-converted-to.pdf used on input line 283.
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
 Package epstopdf Info: Source file: <plots/fitted_bias.eps>
 (epstopdf)                    date: 2014-06-19 17:15:37
 (epstopdf)                    size: 70566 bytes
@@ -541,7 +809,7 @@ Package epstopdf Info: Source file: <plots/fitted_bias.eps>
 (epstopdf)                    size: 43455 bytes
 (epstopdf)             Command: <repstopdf --outfile=plots/fitted_bias-eps-conv
 erted-to.pdf plots/fitted_bias.eps>
-(epstopdf)             \includegraphics on input line 330.
+(epstopdf)             \includegraphics on input line 283.
 Package epstopdf Info: Output file is already uptodate.
 
 <plots/fitted_bias-eps-converted-to.pdf, id=24, 578.16pt x 433.62pt>
@@ -549,320 +817,168 @@ File: plots/fitted_bias-eps-converted-to.pdf Graphic file (type pdf)
 
 <use plots/fitted_bias-eps-converted-to.pdf>
 Package pdftex.def Info: plots/fitted_bias-eps-converted-to.pdf used on input l
-ine 330.
-(pdftex.def)             Requested size: 403.20154pt x 302.40051pt.
-
-
-LaTeX Warning: Float too large for page by 13.35658pt on input line 334.
-
-[2] [3 <./plots/fittingMario_dNOverdz_using_ObreschkowFunc_diff_14bins_3-eps-co
-nverted-to.pdf> <./plots/fitted_bias-eps-converted-to.pdf>]
+ine 283.
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
+ [2]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./plots/fittingMario_dNOverdz_using_ObreschkowFunc_diff_14bins_3-eps-conve
+rted-to.pdf> <./plots/fitted_bias-eps-converted-to.pdf>]
+<plots/cosmic_Variance.pdf, id=120, 578.16pt x 433.62pt>
+File: plots/cosmic_Variance.pdf Graphic file (type pdf)
+
+<use plots/cosmic_Variance.pdf>
+Package pdftex.def Info: plots/cosmic_Variance.pdf used on input line 383.
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
+
+<plots/deltaP_ov_p_Euclid.pdf, id=121, 578.16pt x 433.62pt>
+File: plots/deltaP_ov_p_Euclid.pdf Graphic file (type pdf)
+
+<use plots/deltaP_ov_p_Euclid.pdf>
+Package pdftex.def Info: plots/deltaP_ov_p_Euclid.pdf used on input line 383.
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
 
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 428.
+(amsmath)                 on input line 405.
 
-[4]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<plots/output_lnH_mario_bias_corrected_nz.pdf, id=122, 578.16pt x 433.62pt>
+File: plots/output_lnH_mario_bias_corrected_nz.pdf Graphic file (type pdf)
 
-Package epstopdf Info: Source file: <plots/cosmic_Variance.eps>
-(epstopdf)                    date: 2014-06-03 21:28:19
-(epstopdf)                    size: 74650 bytes
-(epstopdf)             Output file: <plots/cosmic_Variance-eps-converted-to.pdf
->
-(epstopdf)                    date: 2014-06-03 21:29:58
-(epstopdf)                    size: 33923 bytes
-(epstopdf)             Command: <repstopdf --outfile=plots/cosmic_Variance-eps-
-converted-to.pdf plots/cosmic_Variance.eps>
-(epstopdf)             \includegraphics on input line 453.
-Package epstopdf Info: Output file is already uptodate.
-
-<plots/cosmic_Variance-eps-converted-to.pdf, id=123, 578.16pt x 433.62pt>
-File: plots/cosmic_Variance-eps-converted-to.pdf Graphic file (type pdf)
-
-<use plots/cosmic_Variance-eps-converted-to.pdf>
-Package pdftex.def Info: plots/cosmic_Variance-eps-converted-to.pdf used on inp
-ut line 453.
-(pdftex.def)             Requested size: 403.20154pt x 302.40051pt.
-Package epstopdf Info: Source file: <plots/output_lnH_mario_bias.eps>
-(epstopdf)                    date: 2014-05-29 17:13:37
-(epstopdf)                    size: 57334 bytes
-(epstopdf)             Output file: <plots/output_lnH_mario_bias-eps-converted-
-to.pdf>
-(epstopdf)                    date: 2014-05-29 17:22:42
-(epstopdf)                    size: 37946 bytes
-(epstopdf)             Command: <repstopdf --outfile=plots/output_lnH_mario_bia
-s-eps-converted-to.pdf plots/output_lnH_mario_bias.eps>
-(epstopdf)             \includegraphics on input line 503.
-Package epstopdf Info: Output file is already uptodate.
-
-<plots/output_lnH_mario_bias-eps-converted-to.pdf, id=124, 578.16pt x 433.62pt>
-File: plots/output_lnH_mario_bias-eps-converted-to.pdf Graphic file (type pdf)
-<use plots/output_lnH_mario_bias-eps-converted-to.pdf>
-Package pdftex.def Info: plots/output_lnH_mario_bias-eps-converted-to.pdf used 
-on input line 503.
-(pdftex.def)             Requested size: 256.06737pt x 199.16988pt.
-Package epstopdf Info: Source file: <plots/output_lnda_mario_bias.eps>
-(epstopdf)                    date: 2014-05-29 17:13:27
-(epstopdf)                    size: 56951 bytes
-(epstopdf)             Output file: <plots/output_lnda_mario_bias-eps-converted
--to.pdf>
-(epstopdf)                    date: 2014-05-29 17:22:44
-(epstopdf)                    size: 37817 bytes
-(epstopdf)             Command: <repstopdf --outfile=plots/output_lnda_mario_bi
-as-eps-converted-to.pdf plots/output_lnda_mario_bias.eps>
-(epstopdf)             \includegraphics on input line 504.
-Package epstopdf Info: Output file is already uptodate.
-
-<plots/output_lnda_mario_bias-eps-converted-to.pdf, id=125, 578.16pt x 433.62pt
->
-File: plots/output_lnda_mario_bias-eps-converted-to.pdf Graphic file (type pdf)
-
- <use plots/output_lnda_mario_bias-eps-converted-to.pdf>
-Package pdftex.def Info: plots/output_lnda_mario_bias-eps-converted-to.pdf used
- on input line 504.
-(pdftex.def)             Requested size: 256.06737pt x 199.16988pt.
-Package epstopdf Info: Source file: <plots/output_beta_mario_bias.eps>
-(epstopdf)                    date: 2014-05-29 17:13:17
-(epstopdf)                    size: 56384 bytes
-(epstopdf)             Output file: <plots/output_beta_mario_bias-eps-converted
--to.pdf>
-(epstopdf)                    date: 2014-05-29 17:22:45
-(epstopdf)                    size: 37172 bytes
-(epstopdf)             Command: <repstopdf --outfile=plots/output_beta_mario_bi
-as-eps-converted-to.pdf plots/output_beta_mario_bias.eps>
-(epstopdf)             \includegraphics on input line 505.
-Package epstopdf Info: Output file is already uptodate.
-
-<plots/output_beta_mario_bias-eps-converted-to.pdf, id=126, 578.16pt x 433.62pt
->
-File: plots/output_beta_mario_bias-eps-converted-to.pdf Graphic file (type pdf)
-
- <use plots/output_beta_mario_bias-eps-converted-to.pdf>
-Package pdftex.def Info: plots/output_beta_mario_bias-eps-converted-to.pdf used
- on input line 505.
+<use plots/output_lnH_mario_bias_corrected_nz.pdf>
+Package pdftex.def Info: plots/output_lnH_mario_bias_corrected_nz.pdf used on i
+nput line 431.
 (pdftex.def)             Requested size: 256.06737pt x 199.16988pt.
 
-Overfull \hbox (16.06737pt too wide) in paragraph at lines 503--506
+<plots/output_lnda_mario_bias_corrected_nz.pdf, id=123, 578.16pt x 433.62pt>
+File: plots/output_lnda_mario_bias_corrected_nz.pdf Graphic file (type pdf)
+
+<use plots/output_lnda_mario_bias_corrected_nz.pdf>
+Package pdftex.def Info: plots/output_lnda_mario_bias_corrected_nz.pdf used on 
+input line 432.
+(pdftex.def)             Requested size: 256.06737pt x 199.16988pt.
+
+<plots/output_Beta_mario_bias_corrected_nz.pdf, id=124, 578.16pt x 433.62pt>
+File: plots/output_Beta_mario_bias_corrected_nz.pdf Graphic file (type pdf)
+
+<use plots/output_Beta_mario_bias_corrected_nz.pdf>
+Package pdftex.def Info: plots/output_Beta_mario_bias_corrected_nz.pdf used on 
+input line 433.
+(pdftex.def)             Requested size: 256.06737pt x 199.16988pt.
+
+Overfull \hbox (16.06737pt too wide) in paragraph at lines 431--434
 [][]
  []
 
 
-Overfull \hbox (16.06737pt too wide) in paragraph at lines 503--506
+Overfull \hbox (16.06737pt too wide) in paragraph at lines 431--434
 []
  []
 
 
-Overfull \hbox (16.06737pt too wide) in paragraph at lines 503--506
+Overfull \hbox (16.06737pt too wide) in paragraph at lines 431--434
 [] 
  []
 
 
-LaTeX Warning: Float too large for page by 2.08742pt on input line 508.
+LaTeX Warning: Float too large for page by 2.08742pt on input line 436.
 
-Package epstopdf Info: Source file: <plots/DA_errs_7point3mJy_modified_diff_14b
-ins.eps>
-(epstopdf)                    date: 2014-05-26 09:23:48
-(epstopdf)                    size: 35506 bytes
-(epstopdf)             Output file: <plots/DA_errs_7point3mJy_modified_diff_14b
-ins-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-05-26 10:09:17
-(epstopdf)                    size: 22632 bytes
-(epstopdf)             Command: <repstopdf --outfile=plots/DA_errs_7point3mJy_m
-odified_diff_14bins-eps-converted-to.pdf plots/DA_errs_7point3mJy_modified_diff
-_14bins.eps>
-(epstopdf)             \includegraphics on input line 513.
-Package epstopdf Info: Output file is already uptodate.
+[4 <./plots/output_lnH_mario_bias_corrected_nz.pdf> <./plots/output_lnda_mario_
+bias_corrected_nz.pdf
 
-<plots/DA_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf, id=127, 57
-8.16pt x 433.62pt>
-File: plots/DA_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf Graphi
-c file (type pdf)
+pdfTeX warning: /usr/texbin/pdflatex (file ./plots/output_lnda_mario_bias_corre
+cted_nz.pdf): PDF inclusion: multiple pdfs with page group included in a single
+ page
+> <./plots/output_Beta_mario_bias_corrected_nz.pdf
 
-<use plots/DA_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf>
-Package pdftex.def Info: plots/DA_errs_7point3mJy_modified_diff_14bins-eps-conv
-erted-to.pdf used on input line 513.
-(pdftex.def)             Requested size: 256.06737pt x 199.16988pt.
-Package epstopdf Info: Source file: <plots/Hz_errs_7point3mJy_modified_diff_14b
-ins.eps>
-(epstopdf)                    date: 2014-05-26 09:23:50
-(epstopdf)                    size: 43106 bytes
-(epstopdf)             Output file: <plots/Hz_errs_7point3mJy_modified_diff_14b
-ins-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-05-26 10:09:42
-(epstopdf)                    size: 28020 bytes
-(epstopdf)             Command: <repstopdf --outfile=plots/Hz_errs_7point3mJy_m
-odified_diff_14bins-eps-converted-to.pdf plots/Hz_errs_7point3mJy_modified_diff
-_14bins.eps>
-(epstopdf)             \includegraphics on input line 514.
-Package epstopdf Info: Output file is already uptodate.
-
-<plots/Hz_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf, id=128, 57
-8.16pt x 433.62pt>
-File: plots/Hz_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf Graphi
-c file (type pdf)
-
-<use plots/Hz_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf>
-Package pdftex.def Info: plots/Hz_errs_7point3mJy_modified_diff_14bins-eps-conv
-erted-to.pdf used on input line 514.
-(pdftex.def)             Requested size: 256.06737pt x 199.16988pt.
-Package epstopdf Info: Source file: <plots/beta_errs_7point3mJy_modified_diff_1
-4bins.eps>
-(epstopdf)                    date: 2014-05-26 09:23:52
-(epstopdf)                    size: 32572 bytes
-(epstopdf)             Output file: <plots/beta_errs_7point3mJy_modified_diff_1
-4bins-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-05-26 10:09:43
-(epstopdf)                    size: 22366 bytes
-(epstopdf)             Command: <repstopdf --outfile=plots/beta_errs_7point3mJy
-_modified_diff_14bins-eps-converted-to.pdf plots/beta_errs_7point3mJy_modified_
-diff_14bins.eps>
-(epstopdf)             \includegraphics on input line 515.
-Package epstopdf Info: Output file is already uptodate.
-
-<plots/beta_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf, id=129, 
-578.16pt x 433.62pt>
-File: plots/beta_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf Grap
-hic file (type pdf)
-
-<use plots/beta_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf>
-Package pdftex.def Info: plots/beta_errs_7point3mJy_modified_diff_14bins-eps-co
-nverted-to.pdf used on input line 515.
-(pdftex.def)             Requested size: 256.06737pt x 199.16988pt.
-
-Overfull \hbox (16.06737pt too wide) in paragraph at lines 513--516
-[][]
+pdfTeX warning: /usr/texbin/pdflatex (file ./plots/output_Beta_mario_bias_corre
+cted_nz.pdf): PDF inclusion: multiple pdfs with page group included in a single
+ page
+>]
+Underfull \hbox (badness 1184) in paragraph at lines 480--482
+\OT1/cmr/m/n/9 where $\OML/cmm/m/it/9 P[]$ \OT1/cmr/m/n/9 is the power spec-tru
+m eval-u-ated at $\OML/cmm/m/it/9 k \OT1/cmr/m/n/9 =
  []
 
 
-Overfull \hbox (16.06737pt too wide) in paragraph at lines 513--516
-[]
- []
+Underfull \vbox (badness 1383) has occurred while \output is active []
 
+ [5 <./plots/cosmic_Variance.pdf> <./plots/deltaP_ov_p_Euclid.pdf
 
-Overfull \hbox (16.06737pt too wide) in paragraph at lines 513--516
-[] 
- []
-
-[5]
-Overfull \hbox (7.9369pt too wide) in alignment at lines 536--538
-[] [] [] [] 
- []
-
-[6 <./plots/cosmic_Variance-eps-converted-to.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7 <./plots/output_lnH_mario_bias-eps-converted-to.pdf> <./plots/output_lnda_m
-ario_bias-eps-converted-to.pdf> <./plots/output_beta_mario_bias-eps-converted-t
-o.pdf> <./plots/DA_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf> <
-./plots/Hz_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf> <./plots/
-beta_errs_7point3mJy_modified_diff_14bins-eps-converted-to.pdf>]
-Underfull \hbox (badness 1097) in paragraph at lines 627--628
+pdfTeX warning: /usr/texbin/pdflatex (file ./plots/deltaP_ov_p_Euclid.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+>]
+Underfull \hbox (badness 1097) in paragraph at lines 548--549
 \OT1/cmr/m/n/9 tan-gen-tial com-po-nent ($\OML/cmm/m/it/9 ^^[[]=H\OT1/cmr/m/n/9
  %$), the ra-dial com-po-nent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 651--655
+Underfull \hbox (badness 10000) in paragraph at lines 572--576
 \OT1/cmr/m/n/9 where $\OML/cmm/m/it/9 ^^R[] \OT1/cmr/m/n/9 = ([] \OML/cmm/m/it/
 9 D[]; [] H\OT1/cmr/m/n/9 )$ and $\OML/cmm/m/it/9 ^^R[] \OT1/cmr/m/n/9 =
  []
 
 
-Underfull \hbox (badness 5288) in paragraph at lines 651--655
+Underfull \hbox (badness 5288) in paragraph at lines 572--576
 \OT1/cmr/m/n/9 (\OML/cmm/m/it/9 w[]; w[]; \OT1/cmr/m/n/9 
 []\OML/cmm/m/it/9 ; \OT1/cmr/m/n/9 
 []\OML/cmm/m/it/9 ; \OT1/cmr/m/n/9 
 []\OML/cmm/m/it/9 ; h\OT1/cmr/m/n/9 )$, for de-tailed cal-cu-la-tions see
  []
 
+<plots/output_ellipse_w0_wa.pdf, id=397, 578.16pt x 433.62pt>
+File: plots/output_ellipse_w0_wa.pdf Graphic file (type pdf)
 
-Overfull \hbox (48.64502pt too wide) in paragraph at lines 665--686
+<use plots/output_ellipse_w0_wa.pdf>
+Package pdftex.def Info: plots/output_ellipse_w0_wa.pdf used on input line 631.
+
+(pdftex.def)             Requested size: 256.06737pt x 227.62082pt.
+
+Overfull \hbox (16.06737pt too wide) in paragraph at lines 631--632
+ [] 
+ []
+
+<plots/output_ellipse_w0_OK.pdf, id=398, 578.16pt x 433.62pt>
+File: plots/output_ellipse_w0_OK.pdf Graphic file (type pdf)
+
+<use plots/output_ellipse_w0_OK.pdf>
+Package pdftex.def Info: plots/output_ellipse_w0_OK.pdf used on input line 642.
+
+(pdftex.def)             Requested size: 270.29724pt x 227.62082pt.
+
+Overfull \hbox (30.29724pt too wide) in paragraph at lines 642--643
+ [] 
+ []
+
+[6 <./plots/output_ellipse_w0_wa.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./plots/output_ellipse_w0_OK.pdf>] (./Ska_Forecast_draft1-RM-MS.bbl) [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Overfull \hbox (48.64502pt too wide) in paragraph at lines 839--860
  [][] 
  []
 
-[8]
-Package epstopdf Info: Source file: <plots/output_ellipse_w0_wa_14bins_70_3.eps
->
-(epstopdf)                    date: 2014-06-23 10:10:54
-(epstopdf)                    size: 20683 bytes
-(epstopdf)             Output file: <plots/output_ellipse_w0_wa_14bins_70_3-eps
--converted-to.pdf>
-(epstopdf)                    date: 2014-06-23 10:17:21
-(epstopdf)                    size: 12841 bytes
-(epstopdf)             Command: <repstopdf --outfile=plots/output_ellipse_w0_wa
-_14bins_70_3-eps-converted-to.pdf plots/output_ellipse_w0_wa_14bins_70_3.eps>
-(epstopdf)             \includegraphics on input line 826.
-Package epstopdf Info: Output file is already uptodate.
-
-<plots/output_ellipse_w0_wa_14bins_70_3-eps-converted-to.pdf, id=439, 578.16pt 
-x 433.62pt>
-File: plots/output_ellipse_w0_wa_14bins_70_3-eps-converted-to.pdf Graphic file 
-(type pdf)
- <use plots/output_ellipse_w0_wa_14bins_70_3-eps-converted-to.pdf>
-Package pdftex.def Info: plots/output_ellipse_w0_wa_14bins_70_3-eps-converted-t
-o.pdf used on input line 826.
-(pdftex.def)             Requested size: 256.06737pt x 227.62082pt.
-
-Overfull \hbox (16.06737pt too wide) in paragraph at lines 826--827
- [] 
- []
-
-Package epstopdf Info: Source file: <plots/output_ellipse_w0_OK_14bins.eps>
-(epstopdf)                    date: 2014-06-23 10:16:32
-(epstopdf)                    size: 22160 bytes
-(epstopdf)             Output file: <plots/output_ellipse_w0_OK_14bins-eps-conv
-erted-to.pdf>
-(epstopdf)                    date: 2014-06-23 10:17:22
-(epstopdf)                    size: 13460 bytes
-(epstopdf)             Command: <repstopdf --outfile=plots/output_ellipse_w0_OK
-_14bins-eps-converted-to.pdf plots/output_ellipse_w0_OK_14bins.eps>
-(epstopdf)             \includegraphics on input line 844.
-Package epstopdf Info: Output file is already uptodate.
-
-<plots/output_ellipse_w0_OK_14bins-eps-converted-to.pdf, id=440, 578.16pt x 433
-.62pt>
-File: plots/output_ellipse_w0_OK_14bins-eps-converted-to.pdf Graphic file (type
- pdf)
- <use plots/output_ellipse_w0_OK_14bins-eps-converted-to.pdf>
-Package pdftex.def Info: plots/output_ellipse_w0_OK_14bins-eps-converted-to.pdf
- used on input line 844.
-(pdftex.def)             Requested size: 270.29724pt x 227.62082pt.
-
-Overfull \hbox (30.29724pt too wide) in paragraph at lines 844--845
- [] 
- []
-
-
-Underfull \vbox (badness 6157) has occurred while \output is active []
-
-
+[10]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9 <./plots/output_ellipse_w0_wa_14bins_70_3-eps-converted-to.pdf> <./plots/ou
-tput_ellipse_w0_OK_14bins-eps-converted-to.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10]
-[11] (./Ska_Forecast_draft1-RM-MS.bbl) [12]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
+ [11]
 (./Ska_Forecast_draft1-RM-MS.aux) ) 
 Here is how much of TeX's memory you used:
- 5820 strings out of 493481
- 81507 string characters out of 3140966
- 211771 words of memory out of 3000000
- 8967 multiletter control sequences out of 15000+200000
+ 12925 strings out of 493481
+ 230426 string characters out of 3140966
+ 310864 words of memory out of 3000000
+ 15971 multiletter control sequences out of 15000+200000
  20348 words of font info for 77 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,13n,35p,1144b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,12n,35p,901b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type
@@ -887,10 +1003,10 @@ b></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></u
 sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on Ska_Forecast_draft1-RM-MS.pdf (14 pages, 661976 bytes).
+Output written on Ska_Forecast_draft1-RM-MS.pdf (11 pages, 573404 bytes).
 PDF statistics:
- 580 PDF objects out of 1000 (max. 8388607)
- 199 compressed objects within 2 object streams
+ 549 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
