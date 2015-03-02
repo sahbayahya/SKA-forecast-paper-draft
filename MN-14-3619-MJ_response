@@ -1,0 +1,62 @@
+
+We are grateful for the referee's comments, which we address point-by-point 
+below. Changes to the manuscript have been marked in blue.
+
+(1) We agree that the relationship between galaxy surveys and intensity mapping 
+    should be discussed more fully, and have added two paragraphs in Sect. 5 
+    (Conclusions) to address the referee's questions. A detailed description of the HI intensity mapping surveys with forecasts and potential issues can be found in Bull et al. ApJ 2015 and we refer the reader to it. As discussed in the text added, the SKA1 galaxy survey isn’t competitive for cosmology and we will need to rely on intensity mapping or wait for SKA2, although issues such as calibration or foregrounds will be more of a concern for intensity mapping.
+
+
+(2) <Optimal S_area>
+
+This is an important point and we decided to add more detail in the paper. In order to select the area we concentrated on optimising the dark energy figure of merit. As can be seen from fig. 1, if we constrain our analysis to the currently proposed SKA1-MID band 2 range, the optimal area is about 25,000 deg^2. On the other hand, if we allow a survey to probe slightly higher redshifts, the FoM will increase and peak around 5,000 deg^2. This band with lower frequencies is compatible with SKA1-SUR band 2 and probably even SKA1-MID band 2 as the final numbers haven’t been fixed yet. Since it also provides a cosmic variance dominated detection, we opted to follow this survey with 5,000 deg^2, noting that 25,000 deg^2 could also be an option in particular if we want to do this survey together with other large sky surveys such as a continuum galaxy survey.
+
+
+(3) The Fisher matrix calculation in Sect. 4.2 is simplified over 
+    Seo & Eisenstein's in the sense that we neglected some nuisance parameters. Moreover we concentrated on the BAO wiggles only since our aim here was to compare the performance of different surveys. If on one hand, neglecting such nuisance parameters, will make the results more optimistic, on the other hand, the fact that we concentrate on BAO only makes the comparison more robust as we are not relying on other effects from the total power spectrum (which would be more sensitive to changes in the bias amplitude for instance. To underline this 
+    point, we added/reworded two sentences in Sect. 4.2.    
+    Despite the simplification, the forecasts should still be reasonable. Neglecting RSDs is permissible, as various 
+    fitting/marginalisation procedures can be applied to extract the BAO in the 
+    presence of RSDs without causing any serious degradation of the measurement 
+    accuracy (e.g. see Appendix B of arXiv:1203.6594 for an extended discussion 
+    of such methods).
+
+(4) We agree that adding existing BOSS measurements to the forecasts would be 
+    more representative of the actual constraints that could be achieved by the 
+    surveys in the future, but again want to keep our forecasts as clean as possible in order to make a robust comparison of the different surveys.
+    Still, BOSS is clearly an important benchmark for comparison, so we have 
+    added forecasts for it to Table 5 (we added forecasts instead of the actual 
+    constraints in order to retain consistency with our other forecast 
+    assumptions).
+
+We have also addressed the scientific editor's comment by adding a URL for the 
+Dewdney reference.
+
+
+Further minor comments:
+
+Sec 1: "unprecedented sensitivity of the SKA" - and the field-of-view?
+The "field of view" has been included.
+
+Sec 1: "the observed galaxy distribution is seen in projection" -- what 
+does "in projection" mean here?
+
+We chose to withdraw this sentence to avoid confusion.
+
+Sec 1: "in the absence of redshift-space distortions" -- and non-linear 
+effects?
+ The "non-linear effects" has been included 
+
+Sec 4.2: worth also computing the cross-correlation coefficient between 
+the forecast measurements of D_A and H?  Is the cross-correlation 
+included when propagating the forecasts to dark energy parameters?
+
+ Yes, we computed the cross-correlation coefficient. Although we choose not to include it since we  don't think it will add  to the purpose of the paper,  The cross-correlation was included when we propagating the forecasts to dark energy. We added a sentence in section 4.3 to make the reader aware of that.
+
+Sec 4.3: "The expansion rate should be constrained considerably better" 
+-- why is the comparison with BOSS more favourable for H(z) than for 
+D_A(z)?
+The aim was to emphasize that the H(z) value for the SKA1 was better than BOSS value.
+We chose to withdraw this sentence from the text, because it didn't seem logical to compare BOSS real data with SKA1 forecast, we think it make more sense to compare  BOSS forecast  with SKA1 forecast.
+
+

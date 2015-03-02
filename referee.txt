@@ -1,0 +1,94 @@
+Dear Dr Yahya
+
+Copied below are the reviewer's comments on your manuscript entitled "Cosmological performance of SKA HI galaxy surveys", ref. MN-14-3619-MJ, which you submitted to Monthly Notices of the Royal Astronomical Society.
+
+Moderate revision of your manuscript is requested before it is reconsidered for publication.
+
+You should submit your revised version, together with your response to the reviewer's comments via the Monthly Notices ScholarOne Manuscripts site https://mc.manuscriptcentral.com/mnras.
+Enter your Author Centre, where you will find your manuscript title listed under "Manuscripts with Decisions."  Under "Actions," click on "Create a Revision."  Your manuscript reference will be appended to denote a revision.
+
+IMPORTANT: do not submit your revised manuscript as a new paper!
+
+You will not be able to make your revisions to the originally submitted files of the manuscript held on ScholarOne Manuscripts.  Instead, you must delete the original files and abstract and replace them with your revised files.  Check that any requests for colour publication or online-only publication are correct.  Proof read the resulting PDF and HTML files that are generated carefully. If you have used a .bib file to generate your bibliography in Latex, please include this in your .tar archive along with the .bbl and .tex files; this will aid the editing and typesetting process.
+
+When submitting your revised manuscript, you will be able to respond to the comments made by the reviewer in the space provided.  You should also use this space to document any changes you make to the original manuscript.  In order to expedite the processing of the revised manuscript, please be as specific as possible in your response to the reviewer.  It would also be very helpful if you could highlight the changed sections, e.g. by the use of colour, colour highlighting or bold typeface - this will not delay in any way the subsequent processing of your paper.
+
+Because we are trying to facilitate timely publication of manuscripts submitted to MNRAS, your revised manuscript should be uploaded promptly. If you do not submit your revision within six months, we may consider it withdrawn and request it be resubmitted as a new submission.
+
+Please note that, due to the tight schedule, any post-acceptance changes notified after the paper has gone into production (i.e. the day after the acceptance email is sent) cannot be incorporated into the paper before it is typeset. Such changes will therefore need to be made as part of the proof corrections. To avoid excessive proof corrections and the delay that these can cause, you are strongly encouraged to ensure that each version of your paper submitted to MNRAS is completely ready for publication!
+
+I look forward to receiving your revised manuscript.
+
+Regards,
+
+Fern Storey
+(On behalf of Keith Smith)
+
+--
+Dr Keith T. Smith
+
+Assistant Editor (MNRAS)
+  & Deputy Press Officer
+Royal Astronomical Society
+Burlington House
+Piccadilly
+London W1J 0BQ
+
+cc: all listed co-authors.
+
+
+Scientific Editor's Comments:
+
+A more complete reference for Dewdney et al. 2013 is needed, e.g., with a title, document number, DOI, and/or URL. It is important that you document the source of the instrumental parameters that you assumed.
+
+
+Reviewer's Comments:
+
+This paper assesses the cosmological performance of HI galaxy redshift
+surveys which will likely be conducted by the Square Kilometre Array
+radio telescope.  A new model is presented for the redshift distribution
+and bias evolution of galaxies detected in HI flux, and these are used
+to build forecasts for the accuracy with which cosmic expansion,
+distance and dark energy may be measured using baryon acoustic
+oscillations.
+
+I have no major issues with the paper and am happy for it to proceed to
+publication with some minor corrections, suggestions following below.
+
+(*) I suggest that a paragraph be provided in the introduction and/or
+discussion comparing the performance of HI galaxy surveys to HI
+intensity mapping.  Given the potential of intensity mapping, for what
+applications can a galaxy redshift survey still be competitive?  In what
+circumstances might intensity mapping fail to deliver?  Can the
+intensity mapping predictions be added to the paper for comparison?
+
+(*) For SKA1, an optimal survey area of 5000 sq deg is assumed.  In what
+sense is this optimal?  Was a trade-off study performed of the dark
+energy FoM versus area, and if so could the results be included in the
+paper?
+
+(*) How does the approximate Fisher matrix computation performed in Sec
+4.2 compare with the version presented by e.g. Seo & Eisenstein (2007)?
+Can RSD be safely neglected in this calculation?
+
+(*) For the FoM calculations, I suggest adding existing BAO measurements
+from BOSS (LRGs, Ly-alpha forest) as part of the baseline model.  What
+is the FoM of BOSS in Table 5?
+
+Further minor comments:
+
+Sec 1: "unprecedented sensitivity of the SKA" - and the field-of-view?
+
+Sec 1: "the observed galaxy distribution is seen in projection" -- what
+does "in projection" mean here?
+
+Sec 1: "in the absence of redshift-space distortions" -- and non-linear
+effects?
+
+Sec 4.2: worth also computing the cross-correlation coefficient between
+the forecast measurements of D_A and H?  Is the cross-correlation
+included when propagating the forecasts to dark energy parameters?
+
+Sec 4.3: "The expansion rate should be constrained considerably better"
+-- why is the comparison with BOSS more favourable for H(z) than for
+D_A(z)?
